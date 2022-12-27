@@ -108,7 +108,4 @@ Control Painel\Hardware and Sound\Power Options
 
 Run `Register-Battery-Tasks.ps1` with Powershell (right-click the file and click on Run With Powershell), it will register the scripts to run on battery and AC automatically as a Task on Windows.
 
-You can check the tasks on the Task Scheduler, they should look like this:
-
-![Battery Mode Task](./resources/tasks.png)
 

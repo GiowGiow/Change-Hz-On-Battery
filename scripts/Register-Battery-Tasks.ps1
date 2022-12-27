@@ -106,4 +106,3 @@ if (-Not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 Register-Battery-Mode-Start-Task
-Register-Battery-Mode-Reapply-Task
